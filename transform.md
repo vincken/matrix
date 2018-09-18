@@ -92,6 +92,7 @@ y2 = bx1 + dy1 + f;
 [demo](http://htmlpreview.github.io/?https://github.com/vincken/transform/blob/master/demo/demo3.html)
 
 经过原点的任意直线(y = kx)对称：
+
 求经过两点的直线斜率：
 ```
 (y2 - y1) / (x2 - x1)
